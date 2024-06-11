@@ -35,3 +35,10 @@ The GitHub Actions workflow is defined in `.github/workflows/java-ci.yml`. This 
 2. **Set up JDK 11**: Uses the `actions/setup-java@v2` action to set up Java 11.
 3. **Build with Maven**: Runs the `mvn -B package --file pom.xml` command to build the project.
 4. **Run tests**: Runs the `mvn test` command to execute the tests.
+
+
+### Contributing
+Feel free to open issues or submit pull requests if you find any bugs or have suggestions for improvements.
+
+### Contact
+For any questions or inquiries, please contact gangadharbsk@gmail.com.
